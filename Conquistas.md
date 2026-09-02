@@ -54,7 +54,7 @@
 23. O Topo
 	Derrote um Inimigo Supremo
 	
-24. Cercado
+24. Desflanquead
 	Vença um combate em desvantagem numérica
 	
 25. Pontas Soltas
