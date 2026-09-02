@@ -1,1 +1,0 @@
-# Apoteose-Do-Querer-RPG
