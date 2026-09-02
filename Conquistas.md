@@ -54,7 +54,7 @@
 23. O Topo
 	Derrote um Inimigo Supremo
 	
-24. Desflanquead
+24. Desflanqueador
 	Vença um combate em desvantagem numérica
 	
 25. Pontas Soltas
