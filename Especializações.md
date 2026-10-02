@@ -26,7 +26,7 @@ São mais abrangentes e de uso constante que qualquer um capaz o suficiente irá
 
 * [[Tenacidade]] (FIS):
 
-- [[Audácia]] (IMP): É utilizada para resistir e negar passivamente
+- [[Audácia]] (IMP): É utilizada para resistir e negar passivamente Manipulações que tem como alvo diretamente você.
 
 **Especializações Secundárias**
 São bem mais específicas, precisam de muito mais tempo ou atenção para desenvolver, necessitando ou de um foco direto no assunto ou um esforço direcionado para aprender e melhorar. Elas recebem modificador por Atributo apenas se possuírem Capacitação na Especialização, se possuir Capacitação o cálculo é: Valor do atributo - 1 + Capacitação + Bônus externos. Caso contrário é apenas o Bônus externo.
