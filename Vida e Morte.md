@@ -13,4 +13,4 @@ Seus PV determinam o quão saudável seu personagem está no momento e o quão f
 Quando os PV ficam abaixo de 0 seu personagem fica com a vida negativa igual ao dano excedente do que o derrubou. Enquanto seu personagem estiver com os PV abaixo de 0 você permanece [[Condições|Morrendo]], se passar 3 Turnos seguidos Morrendo, é o fim de sua vida. Para deixar de estar Morrendo,  você pode ser Curado até estar com pelo menos 1 PV ou fazer um teste de [[Tenacidade]](Dt 10+Metade dos PV negativos) a cada turno, se passar no teste você fica com 1 PV. 
 
 # Petulância Mortal
-Quanto mais p
+Quanto mais próximo da morte você está, mais

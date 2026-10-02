@@ -8,7 +8,7 @@
 4. IV - O Imperador
 5. V - O Papa
 6. VI - Os Enamorados
-	Derrote "O Imensurável Pilar de Fogo"
+	Derrote ""
 	
 7. VII - A Carruagem
 	Derrote "O Resquício do Futuro"
