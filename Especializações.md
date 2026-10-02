@@ -24,7 +24,7 @@ São mais abrangentes e de uso constante que qualquer um capaz o suficiente irá
   
 - [[Reação]] (RAS): É utilizada para reagir a eventos repentinos.
 
-* [[Tenacidade]] (FIS):
+* [[Tenacidade]] (FIS): É utilizada para amenizar condições 
 
 - [[Audácia]] (IMP): É utilizada para resistir e negar passivamente Manipulações que tem como alvo diretamente você.
 
