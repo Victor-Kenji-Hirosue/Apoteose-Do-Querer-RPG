@@ -1,37 +1,37 @@
 ## Físicas
 - #### De Saúde
-	1. Machucado
-	2. Ferido
-	3. Morrendo
+	1. Machucado: Você sofreu uma quantia de dano significativa e está mais vulnerável.
+	2. Ferido: Você sofreu uma quantia de dano grave e está mais vulnerável e debilitado.
+	3. Morrendo: Você ultrapassou seu limite físico e está aos pés da morte, se esperar demais será o fim.
 - #### De Posição
-	1. Caído
-	2. Escondido
-	3. Protegido
-	4. Flanqueado
+	1. Caído: Está no caído no chão.
+	2. Ocultado: Você está ofuscado, seja por uma névoa ou camuflagem.
+	3. Protegido: Está em um lugar difícil de atacar.
+	4. Flanqueado: Está cercado sozinho.
 - #### De Restrição
-	1. Agarrado
-	2. Travado
-	3. Paralisado
-	4. Preso
+	1. Agarrado: Algo está te segurando e te constringindo.
+	2. Travado: Há algo impedindo seu deslocamento.
+	3. Paralisado: Está completamente imóvel.
+	4. Preso: Há algo te prendendo e te impedindo de mover.
 * #### De Debilidade
-	1. Comprometido
-	2. Debilitado
-	3. Incapacitado
+	1. Comprometido: Sofreu algum dano que reduziu sua capacidade física.
+	2. Debilitado: Está gravemente comprometido.
+	3. Incapacitado: Você está incapaz de se defender ou reagir.
 - #### De Dano
-	1. Sangrando
-	2. Envenenado
-	3. Queimando
-	4. Em Chamas
+	1. Sangrando: Uma lâmina te atingiu de forma grave e agora está perdendo sangue.
+	2. Envenenado: Está sob o efeito de algum veneno.
+	3. Queimando: Você está pegando fogo e sendo queimado.
+	4. Em Chamas: Você está completamente envolto pelo fogo e está sendo derretido por ele.
 ## Mentais
 - #### De Exaustão
-	1. Cansado
-	2. Exausto
-	3. Inconsciente
+	1. Cansado: Seu excesso de esforço está começando a te afetar.
+	2. Exausto: Você está desgastado pelo excesso de esforço.
+	3. Inconsciente: Você ultrapassou seu limite mental ou foi incapacitado.
 * #### De Confusão 
-	1. Desorientado
-	2. Confuso
-	3. Atordoado
-	4. Perdido
+	1. Desorientado: Você está tonto e com os sensos abalados.
+	2. Confuso: 
+	3. Atordoado:
+	4. Perdido:
 * #### De Sentidos
 	1. Cegueira Parcial
 	2. Cego
