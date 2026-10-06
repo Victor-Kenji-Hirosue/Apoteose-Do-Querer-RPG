@@ -30,7 +30,7 @@
 * #### De Confusão 
 	1. Desorientado: Você está tonto e com os sensos abalados.
 	2. Confuso: Seus sentidos estão embaralhados, está difícil de distinguir as coisas ao seu redor.
-	3. Atordoado: 
+	3. Atordoado: Você está completamente desorientado e não consegue agir.
 	4. Perdido:
 * #### De Sentidos
 	1. Cegueira Parcial
