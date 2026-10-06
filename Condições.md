@@ -29,8 +29,8 @@
 	3. Inconsciente: Você ultrapassou seu limite mental ou foi incapacitado.
 * #### De Confusão 
 	1. Desorientado: Você está tonto e com os sensos abalados.
-	2. Confuso: Seus sentidos estão embaralhados
-	3. Atordoado:
+	2. Confuso: Seus sentidos estão embaralhados, está difícil de distinguir as coisas ao seu redor.
+	3. Atordoado: 
 	4. Perdido:
 * #### De Sentidos
 	1. Cegueira Parcial
