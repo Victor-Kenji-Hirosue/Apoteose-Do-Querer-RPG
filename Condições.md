@@ -31,7 +31,7 @@
 	1. Desorientado: Você está tonto e com os sensos abalados.
 	2. Confuso: Seus sentidos estão embaralhados, está difícil de distinguir as coisas ao seu redor.
 	3. Atordoado: Você está completamente desorientado e não consegue agir.
-	4. Perdido:
+	4. Perdido: Sua mente está em colapso, você perde completamente a noção de realidade, identidade e ambiente, agindo sem compreender onde está, quem é ou o que está acontecendo
 * #### De Sentidos
 	1. Cegueira Parcial
 	2. Cego
