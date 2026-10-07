@@ -78,5 +78,10 @@ Uma versão menor de uma técnica a qual foi ofuscada por um oportunista e farsa
 
 
 ## Técnicas Ocultas
+### Respiração Lancinante
+
+### Dançar do Condenado
+
+
 
 

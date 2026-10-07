@@ -30,8 +30,10 @@ São Habilidades que são aprendidas por conta própria, sem necessidade de obse
 ### Espelhada 
 São Habilidades que não podem ser aprendidas por conta própria, sendo necessário observar alguém utilizando ou ser ensinado por alguém que a possua, sempre precisando de menos [[Níveis de Vivência]] se ensinada.
 ### Oculta(Dt)
-Caracterizam o risco de uso da habilidade, podendo posar grave perigo ao usuário e para utiliza-las é necessário realizar um teste de [[Ímpeto]]. Se o usuário falhar no teste ele hesita e não faz nada, porém ainda gasta os [[Pontos de Ação]].
+Caracterizam-se pelo risco de uso da habilidade, podendo posar grave perigo ou dano ao usuário e para utiliza-las é necessário realizar um teste de [[Ímpeto]]. Se o usuário falhar no teste ele hesita e não faz nada, porém ainda gasta os [[Pontos de Ação]].
 
+### Verdadeira
+É uma habilidade da qual foi derivada uma forma mais comum e simples ou menos arriscada, que perdeu seu intuito inicial e se tornou algo completamente diferente. Ela só pode ser aprendida se possuir sua forma comum e a substitui.
 
 # LISTA DE HABILIDADES 
 ## Habilidades Comuns
@@ -45,8 +47,8 @@ Ao Falhar um teste(que não seja Falha Crítica), rola novamente porém com -3 n
 
 ### Golpe Descontrolado
 Empenho:
-Esforço:
-Pré-Requisito: Físico 5, 
+Esforço: 10 PD para ataques com uma mão ou 15 PD para ataques com duas mãos.
+Pré-Requisito: Físico 4, 
 
 Ataques Corpo-a-Corpo podem aumentar a Categoria do Dado de Dano, porém a arma perde 1d4 de PV, se for um Ataque Desarmado invés disso o usuário recebe um Quarto do Dano Causado como Dano de Impacto.
 
@@ -65,3 +67,9 @@ Esforço:
 Pré-Requisito: Raciocínio 5
 
 ## Habilidades Ocultas
+### Torrente Cardíaca 
+
+### AutoVentriloquismo
+
+### Último Vislumbre
+
