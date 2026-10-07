@@ -30,20 +30,20 @@ São mais abrangentes e de uso constante que qualquer um capaz o suficiente irá
 
 **Especializações Secundárias**
 São bem mais específicas, precisam de muito mais tempo ou atenção para desenvolver, necessitando ou de um foco direto no assunto ou um esforço direcionado para aprender e melhorar. Elas recebem modificador por Atributo apenas se possuírem Capacitação na Especialização, se possuir Capacitação o cálculo é: Valor do atributo - 1 + Capacitação + Bônus externos. Caso contrário é apenas o Bônus externo.
-- [[Acrobacia]] (FIS):
+- [[Acrobacia]] (FIS): Representa seu domínio sobre o próprio corpo, permitindo realizar saltos, cambalhotas, esquivas, escaladas e outras manobras que exigem equilíbrio, coordenação, agilidade e controle físico.
 
-- [[Ciências]] (RAS):
+- [[Ciências]] (RAS): Representa a compreensão teórica e prática do mundo natural, dos elementos e do rigor acadêmico. Engloba o conhecimento sobre química, física, biologia e princípios científicos modernos ou arcanos. É a habilidade usada para analisar substâncias desconhecidas, sintetizar compostos e compostos químicos, entender fenômenos naturais complexos ou improvisar soluções técnicas diante de um desafio.
 
-- [[Compostura]] (IMP):
+- [[Compostura]] (IMP): - Representa sua capacidade de manter o controle sobre si mesmo diante de pressão emocional. É utilizada para resistir, superar ou encerrar condições causadas por medo, raiva, tristeza, euforia, trauma e outras alterações emocionais.
 
-- [[Furtividade]] (RAS/FIS):
+- [[Furtividade]] (RAS/FIS): Representa sua habilidade de passar despercebido, controlando cuidadosamente seus movimentos, sons e presença. Você sabe como aproveitar o ambiente, escolher seus caminhos e agir no momento certo para evitar olhares, ruídos ou qualquer outro sinal que possa revelar sua posição.
 
-- [[Medicina]] (RAS):
+- [[Medicina]] (RAS): Representa seu conhecimento sobre o corpo e seus ferimentos, permitindo diagnosticar problemas, tratar lesões, realizar primeiros socorros e reconhecer sintomas, doenças ou condições físicas.
 
-- [[Memória]] (RAS/IMP):
+- [[Memória]] (RAS/IMP): 
 
-- [[Dedução]] (RAS):
+- [[Dedução]] (RAS): Representa sua capacidade de analisar informações, conectar pistas e identificar inconsistências. Permite investigar acontecimentos, reconstruir situações, perceber contradições e reconhecer mentiras ou tentativas de enganação através da lógica e da observação.
 
-- [[Presságio]] (IMP):
+- [[Presságio]] (IMP): É utilizada para detectar e identificar a vontade e intenção de outros.
 
 - [[Sobrevivência]] (RAS/FIS):
