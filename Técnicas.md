@@ -60,7 +60,7 @@ Causa o dobro de ataques corpo-a-corpo em seu turno, porém todos os seus ataque
 Você observou o caos em toda sua minúscula totalidade, uma quebra de realidade para tudo o que conhecia, tentou ver tudo ao mesmo tempo e quase enlouqueceu, porém recebeu uma percepção maior e mais rápida de seu mundo.
 
 ### Consciência Atômica
-Voce viu a verdade de seu mundo, além de bom e mal ou de morais,
+Voce viu a verdade de seu mundo, além de bom e mal, de morais, vida e morte, voce recebeu uma percepção maior de 
 
 ## Técnicas Espelhadas
 ### Atropelamento do Trem
