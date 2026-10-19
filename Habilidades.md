@@ -68,9 +68,11 @@ Pré-Requisito: Raciocínio 5
 
 ## Habilidades Ocultas
 ### Torrente Cardíaca 
+Você acelera seu coração de forma artificial com sua manipulação, seu ritmo cardíaco chega ao dobro, triplo de seu limite normal, o cansaço não mais pesa sobre você, seu folego parece imparável, seu sangue corre violentamente e parece que vai escapar de suas artérias, o mundo parece ficar mais lento. Porém forçar tanto o coração possui um risco fatal, caso você falhe em manter o ritmo de forma correta, entrará em parada cardíaca, às portas de seu próprio fim.
 
-### AutoVentriloquismo
+### Ventriloquia de Tendões
+Utilizar-se de manipulação para se mover mais forte e rapidamente não é um conceito novo, entretanto quase nenhum manipulador com qualquer tipo de senso a exerce sobre seus próprios músculos. Você utiliza de sua manipulação para puxar e contrair seus músculos e tendões de forma muito mais rápida, além de seus limites físicos, podendo rasgar e rompe-los no processo, lentamente destruindo a si mesmo.
 
 ### Último Vislumbre
-
+Seus olhos são utilizados a um limite abstrato, toda a informação visual ao seu redor entra em sua mente instantaneamente, como uma onisciência limitada. Porém utilizar de seu olhar de forma tão extrema traz seus custos junto, sua visão se queima e corrói no processo, ficando mais cego quanto mais tempo manter esta habilidade ativa.
 

@@ -66,10 +66,12 @@ Apenas uma cópia da mais característica técnica da _"Devastação Tilintante"
 Uma versão menor de uma técnica a qual foi ofuscada por um oportunista e farsante que popularizou uma versão imitada, incompleta e com o nome roubado da técnica principal de Atlas. A técnica opera a partir de qualquer impacto significante no alvo, o qual sua energia é mantida percorrendo através do próprio alvo até chegar em alguma borda e ecoar até convergir em um único ponto novamente essa energia, que neste momento, causa mais um impacto capaz de transpassar proteções.
 
 ### Fragmento da Lâmina do Mundo
+Uma versão menor da técnica suprema da "Lamina Fantasma", utilizando manipulação, desloca apenas uma parte de um objeto ou ser para uma direção enquanto segura e desloca outra parte na direção oposta, gerando um corte sem a necessidade de um golpe ou lâmina.
 
 ### Linhas da Própria Marionete
 
 ### Pesadelo Ambulante
+Uma cópia da técnica suprema da "Sombra na Terra", canaliza e projeta as partes mais sombrias de sua mente para fora, aqueles próximos a você, amigo ou inimigo, verão seus pesadelos tornados reais, utilizando tudo de si para criar uma projeção mental absoluta.
 
 ### Sonhos do Mártir
 
@@ -79,6 +81,7 @@ Uma versão menor de uma técnica a qual foi ofuscada por um oportunista e farsa
 
 ## Técnicas Ocultas
 ### Respiração Lancinante
+Cria ou se utiliza de um furo em seu tórax diretamente para seu pulmão para criar uma corrente de ar diretamente da sua boca para o furo de seu tronco, maximizando sua respiração e aumentando sua estamina.
 
 ### Dançar do Condenado
 
