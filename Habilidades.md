@@ -61,7 +61,7 @@ Ignora todas as Condições que está sob efeito durante o resto do turno, poré
 
 ## Habilidades Espelhadas
 ### Eco Infinito
-Toda ação tem uma reação, 
+Toda ação tem uma reação, esta técnica redireciona a reação cinética de impactos de volta para o alvo ao dividir esta energ 
 Habilidade Espelhada
 Empenho:
 Esforço:
