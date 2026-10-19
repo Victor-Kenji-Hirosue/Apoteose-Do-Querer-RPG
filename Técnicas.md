@@ -57,7 +57,7 @@ Utilizada principalmente como forma de punir um movimento mal pensado do oponent
 Causa o dobro de ataques corpo-a-corpo em seu turno, porém todos os seus ataques possuem -5 de ataque e não pode se mover mais de 1 metro em seu turno.
 
 ### Compressão de Explosão
-Utiliza manipulação para comprimir um objeto até alcançar um estado instável e volátil, segurado apenas pela manipu
+Utiliza manipulação para comprimir um objeto até alcançar um estado instável e volátil, segurado apenas pela manipulação do usuário. Uma vez que o usuário pare de exercer sua vontade sob o objeto, ele expande violentamente, causando uma ex
 
 ## Técnicas Espelhadas
 ### Atropelamento do Trem
