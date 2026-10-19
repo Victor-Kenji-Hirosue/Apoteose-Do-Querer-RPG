@@ -59,7 +59,8 @@ Causa o dobro de ataques corpo-a-corpo em seu turno, porém todos os seus ataque
 ### Compressão de Explosão
 Utiliza manipulação para comprimir um objeto até alcançar um estado instável e volátil, segurado apenas pela manipulação do usuário. Uma vez que o usuário pare de exercer sua vontade sob o objeto, ele expande violentamente, causando uma pequena explosão.
 
-
+### Golpe Evasivo
+Realiza um ataque que 
 
 ## Técnicas Espelhadas
 ### Atropelamento do Trem
