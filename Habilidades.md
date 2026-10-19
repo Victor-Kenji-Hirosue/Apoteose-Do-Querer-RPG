@@ -61,7 +61,7 @@ Ignora todas as Condições que está sob efeito durante o resto do turno, poré
 
 ## Habilidades Espelhadas
 ### Eco Infinito
-Toda ação tem uma reação, esta técnica redireciona a reação cinética de impactos de volta para o alvo ao dividir esta energ 
+Toda ação tem uma reação, esta técnica redireciona a reação cinética de impactos de volta para o alvo ao dividir esta energia em milhares de minúsculas reações. 
 Habilidade Espelhada
 Empenho:
 Esforço:
@@ -71,7 +71,7 @@ Pré-Requisito: Raciocínio 5
 Você observou o caos em toda sua minúscula totalidade, uma quebra de realidade para tudo o que conhecia, tentou ver tudo ao mesmo tempo e quase enlouqueceu, porém recebeu uma percepção maior e mais rápida de seu mundo.
 
 ### Consciência Atômica
-Voce viu a verdade de seu mundo, além de bom e mal, de morais, vida e morte, voce recebeu uma percepção maior de matéria e energia, a fundação da realidade, a origem da forma.
+Você viu a verdade de seu mundo, além de bom e mal, de morais, vida e morte, voce recebeu uma percepção maior de matéria e energia, a fundação da realidade, a origem da forma.
 ## Habilidades Ocultas
 ### Torrente Cardíaca 
 Você acelera seu coração de forma artificial com sua manipulação, seu ritmo cardíaco chega ao dobro, triplo de seu limite normal, o cansaço não mais pesa sobre você, seu folego parece imparável, seu sangue corre violentamente e parece que vai escapar de suas artérias, o mundo parece ficar mais lento. Porém forçar tanto o coração possui um risco fatal, caso você falhe em manter o ritmo de forma correta, entrará em parada cardíaca, às portas de seu próprio fim.
