@@ -110,7 +110,11 @@ Além disso se possuir Maestria de Arma com alguma, aumenta a Categoria de Dado 
 
 ### Maestria em Manipulação(Tipo de Manipulação )
 
+### Visão do Caos
+Você observou o caos em toda sua minúscula totalidade, uma quebra de realidade para tudo o que conhecia, tentou ver tudo ao mesmo tempo e quase enlouqueceu, porém recebeu uma percepção maior e mais rápida de seu mundo.
 
+### Consciência Atômica
+Você viu a verdade de seu mundo, além de bom e mal, de morais, vida e morte, você recebeu uma percepção maior de matéria e energia, a fundação da realidade, a origem da forma.
 ## Características Inatas
 ### Afinidade
 Seu personagem tem uma facilidade maior para utilizar este tipo de Manipulação.
