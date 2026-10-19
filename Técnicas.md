@@ -56,6 +56,8 @@ Utilizada principalmente como forma de punir um movimento mal pensado do oponent
 
 Causa o dobro de ataques corpo-a-corpo em seu turno, porém todos os seus ataques possuem -5 de ataque e não pode se mover mais de 1 metro em seu turno.
 
+
+
 ## Técnicas Espelhadas
 ### Atropelamento do Trem
 Derivada da Técnica Suprema do *"Resquício do Futuro"* que gera uma tremenda aceleração em um curto espaço de tempo para a concentrar em um único soco que transfere toda sua energia para o alvo. Enquanto uma técnica ainda muito poderosa, a tentativa de replicá-la trás apenas uma fração de sua eficácia original
