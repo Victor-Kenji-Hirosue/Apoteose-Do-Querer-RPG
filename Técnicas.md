@@ -56,7 +56,8 @@ Utilizada principalmente como forma de punir um movimento mal pensado do oponent
 
 Causa o dobro de ataques corpo-a-corpo em seu turno, porém todos os seus ataques possuem -5 de ataque e não pode se mover mais de 1 metro em seu turno.
 
-
+### Compressão de Explosão
+Utiliza a
 
 ## Técnicas Espelhadas
 ### Atropelamento do Trem
