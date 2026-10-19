@@ -59,6 +59,8 @@ Causa o dobro de ataques corpo-a-corpo em seu turno, porém todos os seus ataque
 ### Visão do Caos
 Você observou o caos em toda sua minúscula totalidade, uma quebra de realidade para tudo o que conhecia, tentou ver tudo ao mesmo tempo e quase enlouqueceu, porém recebeu uma percepção maior e mais rápida de seu mundo.
 
+### Consciência Atômica
+Voce 
 
 ## Técnicas Espelhadas
 ### Atropelamento do Trem
