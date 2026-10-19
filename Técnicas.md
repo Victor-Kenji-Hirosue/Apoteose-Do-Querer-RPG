@@ -56,11 +56,7 @@ Utilizada principalmente como forma de punir um movimento mal pensado do oponent
 
 Causa o dobro de ataques corpo-a-corpo em seu turno, porém todos os seus ataques possuem -5 de ataque e não pode se mover mais de 1 metro em seu turno.
 
-### Visão do Caos
-Você observou o caos em toda sua minúscula totalidade, uma quebra de realidade para tudo o que conhecia, tentou ver tudo ao mesmo tempo e quase enlouqueceu, porém recebeu uma percepção maior e mais rápida de seu mundo.
 
-### Consciência Atômica
-Voce viu a verdade de seu mundo, além de bom e mal, de morais, vida e morte, voce recebeu uma percepção maior de matéria e energia, a fundação da realidade, a origem da forma.
 
 ## Técnicas Espelhadas
 ### Atropelamento do Trem
